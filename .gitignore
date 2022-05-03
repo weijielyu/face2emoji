@@ -1,6 +1,6 @@
 # ignore large files
 data/
-weights/
+# weights/
 
 # other
 .DS_Store
